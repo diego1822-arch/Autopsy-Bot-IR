@@ -1,3 +1,4 @@
+
 🤖 Autopsy-Bot: Automated Forensic Triage Tool (Incident Response)
 🛡️ Project Overview and Purpose
 Autopsy-Bot is a digital forensics and incident response (IR) tool built using Python.
@@ -21,6 +22,12 @@ Data Analysis with Python Pandas: Utilization of the Pandas library to consolida
 
 Advanced Automation: Use of the subprocess and os modules to directly interact with system commands and securely package the final evidence (zipfile).
 
+📸 Live Execution Example
+Esta es la línea que necesitas. Asegúrate de que tu imagen esté en la carpeta assets/ con el nombre que usamos: autopsy_bot_execution.png.
+
+Markdown
+
+![Autopsy-Bot Live Execution Showing Forensic Timeline](assets/autopsy_bot_execution.png)
 🚀 Execution Phases
 The script executes sequentially, ensuring that volatile data is captured first:
 
