@@ -1,0 +1,4 @@
+venv/
+EVIDENCE_*
+*.zip
+__pycache__/
